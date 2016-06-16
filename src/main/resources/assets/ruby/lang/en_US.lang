@@ -1,0 +1,41 @@
+itemGroup.ruby_tab=Bored CE's Ruby Mod
+entity.VillagerGolemRuby.name=Ruby Golem
+
+#Main Items
+item.itemruby.name=Ruby
+item.itemrubynugget.name=Ruby Nugget
+item.itemrubypearl.name=Ruby Pearl
+item.itemrubyapple_0.name=Ruby Apple
+item.itemrubyapple_1.name=Ruby Apple
+item.itemrubycarrot.name=Ruby Carrot
+
+#Armor Items
+item.itemrubyhelmet.name=Ruby Helmet
+item.itemrubychestplate.name=Ruby Chestplate
+item.itemrubyleggings.name=Ruby Leggings
+item.itemrubyboots.name=Ruby Boots
+
+#Tool Items
+item.itemrubypickaxe.name=Ruby Pickaxe
+item.itemrubyaxe.name=Ruby Axe
+item.itemrubyhoe.name=Ruby Hoe
+item.itemrubyshovel.name=Ruby Shovel
+item.itemrubysword.name=Ruby Sword
+
+#Ore Blocks
+tile.blockruby.name=Ruby Block
+tile.blockrubyore.name=Ruby Ore
+
+#Achievements
+achievement.install_mod=You've been installed!
+achievement.install_mod.desc=Download and install Bored Customer's Ruby mod.
+achievement.ruby_warrior=Ruby Warrior
+achievement.ruby_warrior.desc=Craft a Ruby Sword on crafting table.
+achievement.ruby_digger=Ruby Digger
+achievement.ruby_digger.desc=Craft a Ruby Shovel on crafting table.
+achievement.ruby_miner=Ruby Miner
+achievement.ruby_miner.desc=Craft a Ruby Pickaxe on crafting table.
+achievement.ruby_farmer=Ruby Farmer
+achievement.ruby_farmer.desc=Craft a Ruby Hoe on crafting table.
+achievement.ruby_chopper=Ruby Wood Chopper
+achievement.ruby_chopper.desc=Craft a Ruby Axe on crafting table.
